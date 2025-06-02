@@ -1,6 +1,5 @@
 # Ignorar pastas específicas
 notebooks/catboost_info/
-notebooks/data/
 notebooks/extra/
 
 # Ignorar notebooks especiais
